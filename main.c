@@ -8,7 +8,7 @@
 
 int main(int argc, char **argv)
 {
-	int *list = createList(SIZE); // array;
+	int *list = createList(SIZE);
 
 	initListRandomly(list, SIZE);
 
